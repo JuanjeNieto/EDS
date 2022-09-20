@@ -5,6 +5,13 @@
 
 ### 2.Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
 
+- ANÁLISIS: Proceso en el que se determina y analiza qué programa nos piden y como lo vamos a desarrollar.
+- DISEÑO: Se descompone y organizamos los distintos eleentos para el desarrollo.
+- CODIFICACIÓN: Se escribe el código fuente de cada componente.
+- PRUEBAS: Se prueba el programa y se intentan buscar defectos para soluionarlos.
+- MANTENIMIENTO: Se revisa el rpograma como en pasos anteriores para garantizar su funcionamento.
+
+
 ### 3.Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.
 
 ### 4.Ventajas e inconvenientes del modelo en cascada.
