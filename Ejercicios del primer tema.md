@@ -1,4 +1,7 @@
-# Ejercicios del primer tema
+# Tema 1 Elementos de desarrollo del software
+
+## Ciclo de vida del software
+
 ### 1.Define "Ciclo de vida del software".
 
  Es un proceso que consta de una serie de pasos que buscan garantizar que los programas creados son eficientes, fiables, seguros y responden a las necesidades de los usuarios finales. Como el ciclo de la vida de un ser humano.
