@@ -58,7 +58,16 @@ Cultura de empresa, compromiso del cliente, compromiso de la dirección, comprom
 
 ### 5. XP.  Explica los 5 valores de la Programación Extrema.
 
-- 
+- Simplicidad: Los programas deben ser los más sencillos posibles y tener la funcionalidad necesaria que se indican en los requisitos.
+- Comunicación: La comunicación entre programadores debe prevalecer.
+- Retroalimentación: Las pruebas que se le realizan al software nos mantiene informados del grado de fiabilidad del sistema.
+- Valentía o coraje: Asumir retos, ser valientes ante los problemas y afrontarlos.
+- Respeto o humildad: una buena dosis de humildad siempre es de agradecer.
+
+### 6. XP. ¿Cuáles son las características distintivas de XP frente a otras metodologías ágiles? Explícalas
+
+Favorece a la eficacia y sencillez, con el trabajo en equipo por parejas, y es una metodología ágil que se debe adaptar a nosotros, no nosotros adaptarnos a ella.
+
 
 
 
