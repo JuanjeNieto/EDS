@@ -41,5 +41,24 @@ Se crea un prototipo durante la fase de análisis y será probado por el cliente
 
 Es denominado sistema de tarjetas, puesto que va ordenando las tareas y los procesos en tarjetas en el denominado tablero Kanban. Controla la fabricación del producto en la cantidad de tiempo necesario y ayuda al flujo de trabajo con la entrega continua.
 
-Sus diferencias con Scrum son tales como la cadencia, en Scrum es de longitud fija y en Kanban es de flujo continuo. Así como los cambios, en Kanban se trabaja esperando el cambio en cualquier momento mientras en Scrum se trabaja para evitar cambios repentinos. ios
+Sus diferencias con Scrum son tales como la cadencia, en Scrum es de longitud fija y en Kanban es de flujo continuo. Así como los cambios, en Kanban se trabaja esperando el cambio en cualquier momento mientras en Scrum se trabaja para evitar cambios repentinos. 
+
+### 2. SCRUM. Explica como funciona Scrum. 
+
+Scrum funciona por Sprints (o iteraciones) regulares cada 2-4 semanas con el cliente, y reuniones face to face diarías con el equipo de trabajo. Después se harán retrospectivas y reviews para comprobar que se desarrolla en condiciones.
+
+### 3. SCRUM. Define los siguientes términos
+
+- Sprint Backlog: Subconjunto de objetivos/requisitos del Product Backlog seleccionado para la iteración actual y su plan de tareas de desarrollo
+- Product backlog: El product backlog es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
+
+### 4. SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. 
+
+Cultura de empresa, compromiso del cliente, compromiso de la dirección, compromiso conjunto y colaboración de los miembros del equipo, relación entre proveedor y cliente, Facilidad para realizar cambios, Tamaño de cada equipo, Dedicación del equipo a tiempo completo, estabilidad de los miembros del equipo.
+
+### 5. XP.  Explica los 5 valores de la Programación Extrema.
+
+- 
+
+
 
