@@ -2,13 +2,13 @@
 
 ### Bash:
 
-![Comandos bash](/home/usuariodaw/Escritorio/Entornos/Tema 2 - Entornos integrados de Desarrollo/capturas ejercicio01/Captura desde 2022-10-04 09-52-41.png)
+![Comandos bash](capturas ejercicio01/Captura desde 2022-10-04 09-52-41.png)
 
 <pre><code>echo "Hola, Juan";</code></pre>
 
 ### Python: 
 
-![Comandos python](/home/usuariodaw/Escritorio/Entornos/Tema 2 - Entornos integrados de Desarrollo/capturas ejercicio01/Captura desde 2022-10-06 08-49-57.png)
+![Comandos python](capturas ejercicio01/Captura desde 2022-10-06 08-49-57.png)
 
 
 
@@ -18,7 +18,7 @@
 
 ### Javascript
 
-![código Js](/home/usuariodaw/Escritorio/Entornos/Tema 2 - Entornos integrados de Desarrollo/capturas ejercicio01/Captura desde 2022-10-06 08-58-51.png)
+![código Js](capturas ejercicio01/Captura desde 2022-10-06 08-58-51.png)
 
 <pre><code>console.log("Hola, Juan");</code></pre>
 
@@ -26,7 +26,7 @@
 
 ### C
 
-![Comandos C](/home/usuariodaw/Escritorio/Entornos/Tema 2 - Entornos integrados de Desarrollo/capturas ejercicio01/Captura desde 2022-10-11 08-10-07.png)
+![Comandos C](capturas ejercicio01/Captura desde 2022-10-11 08-10-07.png)
 
 <pre><code>
 int main()
@@ -37,7 +37,7 @@ int main()
 
 ### Java
 
-![Comandos Java](/home/usuariodaw/Escritorio/Entornos/Tema 2 - Entornos integrados de Desarrollo/capturas ejercicio01/Captura desde 2022-10-11 08-14-23.png)
+![Comandos Java](capturas ejercicio01/Captura desde 2022-10-11 08-14-23.png)
 
 <pre><code>class Hola
 {
@@ -101,7 +101,7 @@ Los archivos de código objeto tienen la extensión .obj o la extensión .o
 
 ## Ejercicio 07-08
 
-![Comandos codigoobjeto](/home/usuariodaw/Escritorio/Entornos/Tema 2 - Entornos integrados de Desarrollo/capturas ejercicio01/Captura desde 2022-10-11 08-54-37.png)
+![Comandos codigoobjeto](capturas ejercicio01/Captura desde 2022-10-11 08-54-37.png)
 
 
 
