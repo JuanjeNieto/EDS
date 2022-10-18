@@ -115,3 +115,14 @@ Es más común el uso de bibiliotecas dinámicas para la funcionalidad básica, 
 
 ## Ejercicio 13
 
+<pre><code> 
+gcc  -c  -fPIC  aritmetica.c
+
+gcc  -shared  -fPIC  -o  libaritmetica.so  aritmetica.o
+
+cp  libaritmetica.so  /lib
+</code></pre>
+
+## Ejercicio 14
+
+
